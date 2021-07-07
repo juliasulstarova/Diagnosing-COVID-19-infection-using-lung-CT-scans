@@ -1,5 +1,4 @@
-# Diagnosing-COVID-19-infection-using-lung-CT-scans
-
+# COVID-19-Recognition-using-CT-Scans
 Recognize COVID-19 using CT volumes by means of slice-based and patient-based methods.
 
 ### Why CT scans?
